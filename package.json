@@ -1,0 +1,16 @@
+{
+  "name": "aws-lowdb-lambda",
+  "version": "1.0.0",
+  "description": "AWS lambda service powered by lowdb",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "lambda",
+    "lowdb",
+    "api"
+  ],
+  "author": "hho",
+  "license": "MIT"
+}
